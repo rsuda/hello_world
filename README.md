@@ -1,6 +1,5 @@
 # hello_world
 
-Basic tutorial edits for the first repository.
-Just trying to learn how this works!
+Learning how this works.
 
-Add this part too.
+Might upload all past homework assignments on here.
